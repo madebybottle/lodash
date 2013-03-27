@@ -3,3 +3,4 @@
 node_modules/
 vendor/closure-compiler/
 vendor/uglifyjs/
+build/
